@@ -9,6 +9,13 @@ More information can be found here:
  * https://ieeexplore.ieee.org/abstract/document/7966965
 
 
+Disclaimer
+==========
+
+The prototype is not a complete implementation and lacks support for required features.
+
+It has been used to evaluate constructs published in several papers.
+
 Installation Instructions
 =========================
 
